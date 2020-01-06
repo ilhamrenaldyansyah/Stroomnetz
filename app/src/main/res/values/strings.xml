@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login And Search Customer</string>
+    <string name="id_pel">Id Pelanggan</string>
+    <string name="cari_id_pelanggan">Masukan ID Pelanggan</string>
+</resources>
